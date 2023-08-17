@@ -1,0 +1,20 @@
+table {
+    font-family: 'Montserrat';
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #d5d2d2;
+  text-align: center;
+  padding: 8px;
+
+}
+
+tr:nth-child(even) {
+  background-color: rgb(255, 255, 255);
+}
+th{
+    font-size: 20px;
+    background-color: rgb(147, 215, 209);
+}
